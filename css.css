@@ -1,0 +1,76 @@
+body{
+	margin: 0px;
+	background-color: #e6e9e9;
+}
+
+
+.jumbotron{
+	background-image: url(a.jpg); ;
+	background-size: cover;
+	height: 770px;
+	text-align: center;
+	background-size: 100%
+
+	margin-top: -120px;
+	background-size: cover;
+	padding-top: 111px;
+	height: 638px;
+	max-height: 1112px;;
+	
+
+}
+
+.jumbotron .display-4 {
+	color:white;
+	margin-top: 150px;
+
+}
+.jumbotron p {
+	color: white;
+	font-size: 25spx;
+
+}
+.jumbotron hr {
+	border-color: red;
+	width: 250px;
+	border-width: 3px;
+}
+.jumbotron .btn{
+	background-color: red;
+	border: none;
+	border-radius: 25px;
+	padding-right: 25px;
+	padding-left: 25px;
+	margin-top: 25px;
+}
+
+.awal{
+	text-align: center;
+}
+
+.awal.container h1{
+	margin: 36px;
+
+}
+
+.awal .container .row{
+	margin: -3px;
+
+}
+
+.awal .isi .container {
+	background-color: #f9f8f8;
+	margin-top: 20px;
+	margin-bottom: 37px;
+
+}
+.glyphicon{
+	position: relative;
+	font-size: 50px;
+}
+
+
+
+#footer{
+	padding-top: 150px;
+}
